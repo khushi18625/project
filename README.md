@@ -1,1 +1,1 @@
-# MYMajorProject
+# MainProject
